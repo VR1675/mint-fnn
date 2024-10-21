@@ -11,5 +11,6 @@ This repository will host an implementation of Feedforward Neural Network on MNI
 ## How to Run
 
 1. Clone the repository:
+   https://github.com/VR1675/mint-fnn.git
    
-```bash  git clone https://github.com/VR1675/mint-fnn.git 
+
